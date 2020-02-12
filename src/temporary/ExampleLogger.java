@@ -15,7 +15,7 @@ public class ExampleLogger implements Serializable {
         this.dept=dept;
         this.designation=designation;
     }
-    public String toString(){
-        return "Id : "+id+"\nName : "+name+"\nAge : "+age+"\nDept. : "+dept+"\nDesignation : "+designation+"\n";
-    }
+//    public String toString(){
+//        return "Id : "+id+"\nName : "+name+"\nAge : "+age+"\nDept. : "+dept+"\nDesignation : "+designation+"\n";
+//    }
 }
